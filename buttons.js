@@ -17,7 +17,7 @@ class Button {
   
   _buttonPressAction()
   {
-    print( "Gatis pedin" );
+    print( "Pressed" );
   }
   
   onPress()
